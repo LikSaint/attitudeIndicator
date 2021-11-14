@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: rgb(20,25,45);
+}
+
+.hint {
+    position: absolute;
+    top: 0;
+    color: white;
+    width: 200px;
+    font-size: 10px;
+}
